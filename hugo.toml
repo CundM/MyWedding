@@ -17,7 +17,7 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://cundm.github.io/MyWedding/"
+#baseURL = "https://cundm.github.io/MyWedding"
 #publishDir = "public"
 
 
