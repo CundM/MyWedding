@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-content-fade-right"
+title : "Im Anschluss"
+content: |
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+button: 
+  label: "Anfahrt zum Alten Auktionshaus"
+  link: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place//data%3D!4m2!3m1!1s0x47bd9663ca678769:0x4d79d78e4816805e%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&ved=2ahUKEwiM66qk-aaKAxWw_7sIHZDsMEEQ4kB6BAgjEAM&usg=AOvVaw1Pzzn3HXkHFLQMDamm7LhU"
+image: "images/Auktionshaus.PNG"

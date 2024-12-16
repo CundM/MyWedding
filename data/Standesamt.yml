@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-content-fade-left"
+id: "first"
+title : "Um 14 Uhr"
+content: |
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+button: 
+  label: "Anfahrt zum Standesamt"
+  link: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place//data%3D!4m2!3m1!1s0x47bd9d991a9e1001:0xf898c9d1eb1b6952%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&ved=2ahUKEwj9-YGq36aKAxWhzQIHHdkmKrkQ4kB6BAgoEAM&usg=AOvVaw0iuJwMPENav0-3CfRreh9Y"
+image: "images/Rathaus.PNG"
