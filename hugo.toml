@@ -18,7 +18,7 @@ publishDir = "public"
 
 # Remote
 #baseURL = "https://cundm.github.io/MyWedding/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+#publishDir = "public"
 
 
 ## -----------------------------------------------
