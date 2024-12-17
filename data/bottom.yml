@@ -1,4 +1,4 @@
 ####################### Spotlight #########################
 style: "style5 halfscreen orient-center content-align-center onscroll-content-fade-up"
 content: |
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/> <img src="images/Signature.jpg" alt="" width="200" height="48"/>
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/> <img src="images/Signature.jpg" style="width: 25vw; min-width: 200px;/>
