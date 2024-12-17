@@ -1,11 +1,11 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right"
+style: "style1 orient-left content-align-left image-position-center halfscreen onload-content-fade-right"
 title : "WIR HEIRATEN"
-subtitle: >-
+subtitle: |
   Wir können es selbst noch kaum glauben aber wir heiraten am 11.10. um 14:00 Uhr im
   <a target="_blank" href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place//data%3D!4m2!3m1!1s0x47bd9d991a9e1001:0xf898c9d1eb1b6952%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&ved=2ahUKEwj9-YGq36aKAxWhzQIHHdkmKrkQ4kB6BAgoEAM&usg=AOvVaw0iuJwMPENav0-3CfRreh9Y">historischen Rathaus</a> in Groß-Gerau und wollen anschließend mit euch im
   <a target="_blank" href="https://altes-auktionshaus.de/">Alten Auktionshaus</a> in Mainz feiern.
-content : >-
+content : |
   Da die Planungen schon in vollem Gange sind, wäre es super wenn ihr uns bereits so früh wie möglich mitteilen könntet, ob ihr an diesem Tag mit uns feiert.
   Nutzt dazu einfach folgenden Button für die Rückmeldung.
 button:
