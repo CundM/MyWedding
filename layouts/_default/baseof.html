@@ -12,13 +12,10 @@
 	<body class="is-preload">
 
 		<!-- Wrapper for password protection -->
-		<div id="passwordProtectedWrapper">
-			<!-- Password prompt and script will handle showing or hiding content -->
-			<div id="passwordPrompt" style="text-align: center;">
-				<h2>Enter the Password</h2>
-				<input type="password" id="password" />
-				<button onclick="checkPassword()">Submit</button>
-			</div>
+		<div id="passwordProtectedWrapper" style="display: block;">
+			<!-- Banner section with password prompt -->
+			{{ partial "password-protection.html" site.Data.passwordProtection }}
+
 
 			<!-- Content to be shown after correct password -->
 			<div id="protectedContent" style="display: none;">
@@ -31,25 +28,6 @@
 				{{ partial "scripts" . }}
 			</div>
 		</div>
-
-		<script>
-		   function checkPassword() {
-		      var password = document.getElementById('password').value;
-		      if (password === 'CuM1110') {  // Replace 'yourpassword' with the actual password
-		         document.getElementById('passwordPrompt').style.display = 'none';
-		         document.getElementById('protectedContent').style.display = 'block';
-		         localStorage.setItem('authenticated', 'true');
-		      } else {
-		         alert('Incorrect password');
-		      }
-		   }
-
-		   // Check if the user is already authenticated
-		   if (localStorage.getItem('authenticated') === 'true') {
-		      document.getElementById('passwordPrompt').style.display = 'none';
-		      document.getElementById('protectedContent').style.display = 'block';
-		   }
-		</script>
 
 	</body>
 </html>
