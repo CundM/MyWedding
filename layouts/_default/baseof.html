@@ -6,19 +6,50 @@
 	This Hugo theme is licensed under the Creative Commons Attribution 3.0 License.
 -->
 <html>
-	
+
 	{{ partial "head" . }}
 
 	<body class="is-preload">
 
-		<!-- Wrapper -->
-		<div id="wrapper" class="divided">
-            {{- block "main" . }}{{- end }}
-		<!-- Wrapper -->
+		<!-- Wrapper for password protection -->
+		<div id="passwordProtectedWrapper">
+			<!-- Password prompt and script will handle showing or hiding content -->
+			<div id="passwordPrompt" style="text-align: center;">
+				<h2>Enter the Password</h2>
+				<input type="password" id="password" />
+				<button onclick="checkPassword()">Submit</button>
+			</div>
+
+			<!-- Content to be shown after correct password -->
+			<div id="protectedContent" style="display: none;">
+				<!-- Actual page content starts here -->
+				<div id="wrapper" class="divided">
+					{{- block "main" . }}{{- end }}
+				</div>
+				<!-- Any other global content -->
+				{{ template "_internal/google_analytics.html" . }}
+				{{ partial "scripts" . }}
+			</div>
 		</div>
-		
-		{{ template "_internal/google_analytics.html" . }}
-		{{ partial "scripts" . }}
+
+		<script>
+		   function checkPassword() {
+		      var password = document.getElementById('password').value;
+		      if (password === 'CuM1110') {  // Replace 'yourpassword' with the actual password
+		         document.getElementById('passwordPrompt').style.display = 'none';
+		         document.getElementById('protectedContent').style.display = 'block';
+		         localStorage.setItem('authenticated', 'true');
+		      } else {
+		         alert('Incorrect password');
+		      }
+		   }
+
+		   // Check if the user is already authenticated
+		   if (localStorage.getItem('authenticated') === 'true') {
+		      document.getElementById('passwordPrompt').style.display = 'none';
+		      document.getElementById('protectedContent').style.display = 'block';
+		   }
+		</script>
 
 	</body>
 </html>
