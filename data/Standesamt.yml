@@ -3,8 +3,13 @@ style: "style1 orient-right content-align-left image-position-center onscroll-co
 id: "first"
 title : "Um 14 Uhr"
 content: |
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-button: 
+  starten wir mit der standesamtlichen Trauung im historischen Rathaus in Groß-Gerau. Zum Parken in der Nähe fahrt ihr am besten folgende Adressen an:
+    <ul>
+      <li><a target="_blank" href="https://maps.app.goo.gl/Sp5iinoHiE2m1BXSA">Frankfurter Str. 18 Groß-Gerau</a></li>
+      <li><a target="_blank" href="https://maps.app.goo.gl/jrpGjJ9ckedVnwMK9">Helwigstraße 3 Groß Gerau</a></li>
+      <li><a target="_blank" href="https://maps.app.goo.gl/MJVLwu9NLNUWV4Kt7">Am Marktplatz Groß Gerau</a></li>
+  </ul>
+button:
   label: "Anfahrt zum Standesamt"
   link: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place//data%3D!4m2!3m1!1s0x47bd9d991a9e1001:0xf898c9d1eb1b6952%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&ved=2ahUKEwj9-YGq36aKAxWhzQIHHdkmKrkQ4kB6BAgoEAM&usg=AOvVaw0iuJwMPENav0-3CfRreh9Y"
 image: "images/Rathaus.PNG"

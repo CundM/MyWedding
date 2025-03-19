@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-content-fade-right"
+title : "Ablauf"
+content: |
+  <ul>
+      <li>14:00 Uhr – Standesamt Groß-Gerau</li>
+      <li>14:30 Uhr – Gratulation & Gruppenfotos am Standesamt</li>
+      <li>16:00 Uhr – Sektempfang am alten Auktionshaus</li>
+      <li>18:30 Uhr – Abendessen & Reden</li>
+      <li>20:00 Uhr – Hochzeitstorte</li>
+      <li>21:30 Uhr – Hochzeitstanz und Party</li>
+      <li>03:00 Uhr – Schicht im Schacht</li>
+  </ul>
+image: "images/Uhr.png"
