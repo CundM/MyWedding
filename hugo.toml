@@ -9,15 +9,15 @@ theme = "hugo-story"
 ## Publish
 ## -----------------------------------------------
 
-# relativeURLs = "true"
-# canonifyURLs = "true"
+#relativeURLs = "true"
+#canonifyURLs = "true"
 
 # Local
-baseURL = "/"
-publishDir = "public"
+# baseURL = "/"
+# publishDir = "public"
 
 # Remote
-# baseURL = "https://cundm.github.io/MyWedding/"
+baseURL = "https://cundm.github.io/MyWedding/"
 
 
 ## -----------------------------------------------
