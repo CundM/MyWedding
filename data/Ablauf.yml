@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-content-fade-right"
+style: "style1 orient-right content-align-left image-position-center onscroll-content-fade-left"
 title : "Ablauf im Detail"
 content: |
   <ul class="alt" style="display: inline-block; padding-left: auto; text-align: left;">
