@@ -3,34 +3,26 @@ style: "style2 medium lightbox onscroll-fade-in"
 content: |
   Unser Verlobungsshooting
 pictures:
-  - image: "images/Marie_Coco.jpeg"
-    thumb: "images/Marie_Coco.jpeg"
-    button: "Vergrößern"
-
   - image: "images/Ring.jpg"
     thumb: "images/Ring.jpg"
     button: "Vergrößern"
 
-  - image: "images/Marie_Coco.jpeg"
-    thumb: "images/Marie_Coco.jpeg"
+  - image: "images/Marie_Coco_1.jpg"
+    thumb: "images/Marie_Coco_1.jpg"
     button: "Vergrößern"
 
-  - image: "images/Ring.jpg"
-    thumb: "images/Ring.jpg"
+  - image: "images/Marie_Coco_2.jpg"
+    thumb: "images/Marie_Coco_2.jpg"
     button: "Vergrößern"
 
-  - image: "images/Marie_Coco.jpeg"
-    thumb: "images/Marie_Coco.jpeg"
+  - image: "images/Marie_Coco_3.jpg"
+    thumb: "images/Marie_Coco_3.jpg"
     button: "Vergrößern"
 
-  - image: "images/Ring.jpg"
-    thumb: "images/Ring.jpg"
+  - image: "images/Marie_Coco_4.jpg"
+    thumb: "images/Marie_Coco_4.jpg"
     button: "Vergrößern"
 
-  - image: "images/Marie_Coco.jpeg"
-    thumb: "images/Marie_Coco.jpeg"
-    button: "Vergrößern"
-
-  - image: "images/Ring.jpg"
-    thumb: "images/Ring.jpg"
+  - image: "images/Marie_Coco_5.jpg"
+    thumb: "images/Marie_Coco_5.jpg"
     button: "Vergrößern"
