@@ -1,8 +1,8 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-content-fade-right"
-title : "Ablauf"
+title : "Ablauf im Detail"
 content: |
-  <ul>
+  <ul class="alt" style="display: inline-block; padding-left: auto; text-align: left;">
       <li>14:00 Uhr – Standesamt Groß-Gerau</li>
       <li>14:30 Uhr – Gratulation & Gruppenfotos am Standesamt</li>
       <li>16:00 Uhr – Sektempfang am alten Auktionshaus</li>

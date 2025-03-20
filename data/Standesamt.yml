@@ -4,7 +4,7 @@ id: "first"
 title : "Um 14 Uhr"
 content: |
   starten wir mit der standesamtlichen Trauung im historischen Rathaus in Groß-Gerau. Zum Parken in der Nähe fahrt ihr am besten folgende Adressen an:
-    <ul>
+    <ul style="display: inline-block; padding-left: auto; text-align: left;">
       <li><a target="_blank" href="https://maps.app.goo.gl/Sp5iinoHiE2m1BXSA">Frankfurter Str. 18 Groß-Gerau</a></li>
       <li><a target="_blank" href="https://maps.app.goo.gl/jrpGjJ9ckedVnwMK9">Helwigstraße 3 Groß Gerau</a></li>
       <li><a target="_blank" href="https://maps.app.goo.gl/MJVLwu9NLNUWV4Kt7">Am Marktplatz Groß Gerau</a></li>
