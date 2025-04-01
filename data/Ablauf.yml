@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-content-fade-left"
+style: "style1 orient-right content-align-center image-position-center onscroll-content-fade-left"
 title : "Ablauf im Detail"
 content: |
   <ul class="alt" style="display: inline-block; padding-left: auto; text-align: left;">
@@ -7,7 +7,6 @@ content: |
       <li>14:30 Uhr – Gratulation & Gruppenfotos am Standesamt</li>
       <li>16:00 Uhr – Sektempfang am alten Auktionshaus</li>
       <li>18:30 Uhr – Abendessen & Reden</li>
-      <li>20:00 Uhr – Hochzeitstorte</li>
       <li>21:30 Uhr – Hochzeitstanz und Party</li>
       <li>03:00 Uhr – Schicht im Schacht</li>
   </ul>
