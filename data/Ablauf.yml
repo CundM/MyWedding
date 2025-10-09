@@ -3,11 +3,11 @@ style: "style1 orient-right content-align-center image-position-center onscroll-
 title : "Ablauf im Detail"
 content: |
   <ul class="alt" style="display: inline-block; padding-left: auto; text-align: left;">
-      <li>14:00 Uhr – Standesamtliche Trauung Groß-Gerau</li>
-      <li>14:45 Uhr – Gratulation & Gruppenfotos am Standesamt</li>
-      <li>16:30 Uhr – Sektempfang am alten Auktionshaus</li>
+      <li>14:00 Uhr – Beginn Standesamtliche Trauung Groß-Gerau</li>
+      <li>14:30 Uhr – Gratulation am Standesamt und Aufbruch zum alten Auktionshaus</li>
+      <li>15:30 Uhr – Sektempfang am alten Auktionshaus</li>
       <li>18:30 Uhr – Abendessen & Reden</li>
-      <li>22:00 Uhr – Hochzeitstanz und Party</li>
+      <li>21:30 Uhr – Hochzeitstanz und Party</li>
       <li>03:00 Uhr – Schicht im Schacht</li>
   </ul>
 image: "images/Uhr.png"
